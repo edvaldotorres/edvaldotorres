@@ -2,13 +2,13 @@
 
 Full-Stack Developer.
 
-- 📫 How to reach me **edvaldodev@outlook.com.br**
+- 📫 How to reach me **edvaldodev@outlook.com.br** 
+
+- 💬 Ask me about **JavaScript, HTML, CSS, PHP, Laravel, SQL**
 
 Lover of Web Development.
 
 Developer passionate about technology, programming and the entire technological system ecosystem, always looking to add value and results through great solutions with the best technologies in the market. Continuous learning and studies to achieve all objectives.
-
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
 ## Se ainda não segue, conheça as Redes Sociais
 
