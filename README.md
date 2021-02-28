@@ -2,7 +2,7 @@
 
 Full-Stack Developer.
 
-- 📫 How to reach me **edvaldodev@outlook.com.br** 
+- 📫 How to reach me **edvaldodev@gmail.com** 
 
 - 💬 Ask me about **JavaScript, HTML, CSS, PHP, Laravel, SQL**
 
