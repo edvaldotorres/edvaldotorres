@@ -6,9 +6,9 @@ Full-Stack Developer.
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
 [![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
-Amante do Desenvolvimento Web. 
+Lover of Web Development.
 
-Desenvolvedor apaixonado por tecnologia, programação e todo ecossistema sistema tecnológico, procurando sempre agregar valor e resultados por meio de grandes soluções com as melhores tecnologias do mercado. Aprendizado e estudos contínuo para alcançar todos os objetivos.
+Developer passionate about technology, programming and the entire technological system ecosystem, always looking to add value and results through great solutions with the best technologies in the market. Continuous learning and studies to achieve all objectives.
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
