@@ -2,7 +2,7 @@
 
 Full-Stack Developer.
 
-[![Email Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+- 📫 How to reach me **edvaldodev@outlook.com.br**
 
 Lover of Web Development.
 
