@@ -8,7 +8,7 @@ Full Stack Developr.
 
 Enthusiast of the best web & mobile development technologies.
 
-Desenvolvedor apaixonado por tecnologia, programação e todo eco sistema tecnológico, procurando sempre agregar valor e resultados por meio de grandes soluções com as melhores tecnologias do mercado. Aprendizado e estudos contínuo para alcançar todos os objetivos.
+Desenvolvedor apaixonado por tecnologia, programação e todo ecossistema sistema tecnológico, procurando sempre agregar valor e resultados por meio de grandes soluções com as melhores tecnologias do mercado. Aprendizado e estudos contínuo para alcançar todos os objetivos.
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
