@@ -14,6 +14,8 @@ Developer passionate about technology, programming and the entire technological 
 
 ![Edvaldotorres github stats](https://github-readme-stats.vercel.app/api?username=edvaldotorres&hide=prs,issues&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldotorres&layout=compact&theme=radical&title_color=8E2DE2&text_color=fff&hide_border=true&card_width=445)
+
 ## If you still don't follow, get to know Social Networks
 
 <p align="center">
