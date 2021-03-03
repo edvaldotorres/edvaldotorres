@@ -10,9 +10,11 @@ Lover of Web Development.
 
 Developer passionate about technology, programming and the entire technological system ecosystem, always looking to add value and results through great solutions with the best technologies in the market. Continuous learning and studies to achieve all objectives.
 
-### This is my github stats:
+## This is my github stats:
 
 ![Edvaldotorres github stats](https://github-readme-stats.vercel.app/api?username=edvaldotorres&hide=prs,issues&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&hide_border=true)
+
+## Most used stacks:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldotorres&layout=compact&theme=radical&title_color=8E2DE2&text_color=fff&hide_border=true&card_width=445)
 
