@@ -2,7 +2,14 @@
 
 Full-Stack Developer.
 
-- 📫 How to reach me [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edvaldodev@gmail.com)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=3178c6)
+![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=Laravel&logoColor=E10098)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+
+- 📫 How to reach me **edvaldodev@gmail.com**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, PHP, Laravel, SQL**
 
