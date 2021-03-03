@@ -12,7 +12,7 @@ Developer passionate about technology, programming and the entire technological 
 
 ## GitHub statistics:
 
-![Edvaldotorres github stats](https://github-readme-stats.vercel.app/api?username=edvaldotorres&hide=prs,issues&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&hide_border=true)
+![Edvaldotorres github stats](https://github-readme-stats.vercel.app/api?username=edvaldotorres&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&hide_border=true)
 
 ## Most used stacks:
 
