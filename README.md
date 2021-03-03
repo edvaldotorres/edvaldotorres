@@ -2,7 +2,7 @@
 
 Full-Stack Developer.
 
-- 📫 How to reach me **edvaldodev@gmail.com** 
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edvaldodev@gmail.com)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, PHP, Laravel, SQL**
 
