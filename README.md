@@ -12,7 +12,7 @@ Developer passionate about technology, programming and the entire technological 
 
 ### This is my github stats:
 
-![Edvaldotorres github stats](https://github-readme-stats.vercel.app/api?username=edvaldotorres=prs,issues&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&hide_border=true)
+![Edvaldotorres github stats](https://github-readme-stats.vercel.app/api?username=edvaldotorres&hide=prs,issues&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&hide_border=true)
 
 ## If you still don't follow, get to know Social Networks
 
