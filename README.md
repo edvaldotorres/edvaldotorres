@@ -27,4 +27,4 @@ Developer passionate about technology, programming and the entire technological 
 <a href="https://www.instagram.com/edvaldotorres_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="edvaldotorres" height="20" width="20" /></a>
 </p>
 
-⭐️ De [Edvaldo Torres](https://github.com/edvaldotorres)
+⭐️ From [Edvaldo Torres](https://github.com/edvaldotorres)
