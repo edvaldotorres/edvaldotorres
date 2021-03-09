@@ -18,7 +18,7 @@ Developer passionate about technology, programming and the entire technological 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldotorres&layout=compact&theme=radical&title_color=8E2DE2&text_color=fff&hide_border=true&card_width=445)
 
-##  Se você ainda não segue, conheça as redes sociais
+##  If you still don't follow, get to know social networks
 
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="edvaldotorres" height="20" width="20" /></a>
