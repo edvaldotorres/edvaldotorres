@@ -22,7 +22,7 @@ Developer passionate about technology, programming and the entire technological 
 
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="edvaldotorres" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/edvaldo-torres-de-souza-189894150/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edvaldotorres" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/edvaldo-torres-189894150/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edvaldotorres" height="20" width="20" /></a>
 <a href="https://www.facebook.com/edvaldo.torres.967/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="edvaldotorres" height="20" width="20" /></a>
 <a href="https://www.instagram.com/edvaldotorres_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="edvaldotorres" height="20" width="20" /></a>
 </p>
