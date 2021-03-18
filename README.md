@@ -2,6 +2,8 @@
 
 Full-Stack Developer.
 
+- 🔭 I’m currently working on [Rocketseat](https://github.com/tecnologiane10)
+- 
 - 📫 How to reach me **edvaldodev@gmail.com**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, PHP, Laravel, SQL**
