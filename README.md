@@ -2,7 +2,7 @@
 
 Full-Stack Developer.
 
-- 🔭 I’m currently working on [Sistema Jornal do Commercio do Comunicação](https://github.com/tecnologiane10)
+- 🔭 I’m currently working on [Sistema Jornal do Commercio de Comunicação](https://github.com/tecnologiane10)
 
 - 📫 How to reach me **edvaldodev@gmail.com**
 
