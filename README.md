@@ -12,7 +12,7 @@ Lover of Web Development.
 
 Developer passionate about technology, programming and the entire technological system ecosystem, always looking to add value and results through great solutions with the best technologies in the market. Continuous learning and studies to achieve all objectives.
 
-edvaldotorres.com.br
+[edvaldotorres.com.br](https://edvaldotorres.com.br)
 
 ## GitHub statistics:
 
