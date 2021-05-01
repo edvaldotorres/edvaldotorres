@@ -12,6 +12,8 @@ Lover of Web Development.
 
 Developer passionate about technology, programming and the entire technological system ecosystem, always looking to add value and results through great solutions with the best technologies in the market. Continuous learning and studies to achieve all objectives.
 
+edvaldotorres.com.br
+
 ## GitHub statistics:
 
 ![Edvaldotorres github stats](https://github-readme-stats.vercel.app/api?username=edvaldotorres&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&hide_border=true)
