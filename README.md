@@ -1,6 +1,6 @@
 # Edvaldo Torres
 
-Full-Stack Developer.
+Back-End Developer.
 
 - 🔭 I’m currently working on [Sistema Jornal do Commercio de Comunicação](https://github.com/tecnologiane10)
 
