@@ -1,6 +1,6 @@
 # Edvaldo Torres
 
-Back-End Developer.
+Software developer.
 
 - 📫 How to reach me **edvaldodev@gmail.com**
 
