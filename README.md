@@ -2,8 +2,6 @@
 
 Back-End Developer.
 
-- 🔭 I’m currently working on [Sistema Jornal do Commercio de Comunicação](https://github.com/tecnologiane10)
-
 - 📫 How to reach me **edvaldodev@gmail.com**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, PHP, Laravel, SQL**
